@@ -38,10 +38,8 @@ pip install streamlit
 streamlit run app.py
 ```
 
-## Demp
+## Demo
 ![main widow](demo.gif)
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+All rights reserved © 2023 - Systems & Biomedical Engineering, Cairo University (Class 2024)
